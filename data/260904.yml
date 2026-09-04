@@ -7,7 +7,7 @@ about:
   head: a4a1be9
   archived: false
   latestVersion: release-a4a1be9
-  collectedAt: 2026-09-04T19:23:40Z
+  collectedAt: 2026-09-04T21:11:43Z
 timeline:
   created: 2021-04-04
   lastCommit: 2026-07-23
@@ -81,5 +81,43 @@ total:
   openIssue: 21
   commit: 1026
 ---
+path: /home/runner/.x-repo/github.com/quackduck/devzat
+collectedAt: 2026-09-04T21:11:45Z
+loc:
+  Go:
+    code: 4656
+    comments: 214
+    blanks: 545
+    files: 18
+  Protobuf:
+    code: 49
+    comments: 4
+    blanks: 15
+    files: 1
+  Yaml:
+    code: 33
+    comments: 2
+    blanks: 1
+    files: 1
+  Sh:
+    code: 1
+    comments: 1
+    blanks: 1
+    files: 1
+  Markdown:
+    code: 0
+    comments: 413
+    blanks: 168
+    files: 4
+  Text:
+    code: 0
+    comments: 60
+    blanks: 0
+    files: 3
+total:
+  code: 4780
+  comments: 702
+  blanks: 730
+  files: 28
 ---
 
