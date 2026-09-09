@@ -7,7 +7,7 @@ about:
   latestVersion: "release-a4a1be9"
   latestRelease: "release-a4a1be9"
   latestPrerelease: ""
-  collectedAt: 2026-09-09T06:26:31Z
+  collectedAt: 2026-09-09T20:56:15Z
 timeline:
   created: 2021-04-04
   lastCommit: 2026-07-23
@@ -15,7 +15,7 @@ timeline:
   lastRelease: 2026-07-23
   lastPrerelease: 
 popularity:
-  star: 4064
+  star: 4063
   watcher: 21
   fork: 149
   release: 21
@@ -84,7 +84,7 @@ total:
   commit: 1026
 ---
 path: /home/runner/.x-repo/github.com/quackduck/devzat
-collectedAt: 2026-09-09T06:26:31Z
+collectedAt: 2026-09-09T20:56:17Z
 loc:
   Go:
     code: 4656
