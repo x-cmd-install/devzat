@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 22552841,
       "digest": "sha256:f5a7e60e16ffc4c8919c40b415d0f85889eef8864c2c7cc39f4be2115fa36e50",
-      "download_count": 25,
+      "download_count": 26,
       "created_at": "2026-07-23T14:05:00Z",
       "updated_at": "2026-07-23T14:05:02Z",
       "browser_download_url": "https://github.com/quackduck/devzat/releases/download/release-a4a1be9/devzat-linux-amd64"
@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 23089664,
       "digest": "sha256:67b0ed7e6d806c32b3dacea15d64e2c4f193793c15bee9ff351764c8af29b208",
-      "download_count": 14,
+      "download_count": 15,
       "created_at": "2026-07-23T14:05:00Z",
       "updated_at": "2026-07-23T14:05:02Z",
       "browser_download_url": "https://github.com/quackduck/devzat/releases/download/release-a4a1be9/devzat-windows-amd64.exe"
