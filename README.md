@@ -37,22 +37,22 @@ Total: **4,739** lines of code across **25** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 4,064 · **Forks**: 149 · **Open issues**: 83 · **Contributors**: 19
+- **Stars**: 4,066 · **Forks**: 149 · **Open issues**: 83 · **Contributors**: 19
 
 ## Totals (cumulative)
 
-- **Releases**: 21 · **Merged PRs**: 151 · **Open PRs**: 5 · **Closed issues**: 62 · **Open issues**: 21 · **Commits**: 1026
+- **Releases**: 21 · **Merged PRs**: 151 · **Open PRs**: 5 · **Closed issues**: 63 · **Open issues**: 20 · **Commits**: 1026
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-16 | 0 | 0 | 0 | 1 | 0 | 0 |
-| last60d | 2026-07-17 | 1 | 1 | 0 | 1 | 0 | 1 |
-| 90d | 2026-06-17 | 4 | 3 | 0 | 1 | 0 | 4 |
-| last180d | 2026-03-19 | 5 | 5 | 2 | 1 | 1 | 11 |
-| 360d | 2025-09-20 | 21 | 24 | 3 | 3 | 2 | 45 |
-| last720d | 2024-09-25 | 21 | 31 | 3 | 6 | 3 | 94 |
+| 30d | 2026-08-17 | 0 | 0 | 0 | 1 | 0 | 0 |
+| last60d | 2026-07-18 | 1 | 1 | 0 | 1 | 0 | 1 |
+| 90d | 2026-06-18 | 4 | 3 | 0 | 1 | 0 | 4 |
+| last180d | 2026-03-20 | 5 | 5 | 2 | 2 | 0 | 11 |
+| 360d | 2025-09-21 | 21 | 24 | 3 | 4 | 1 | 45 |
+| last720d | 2024-09-26 | 21 | 31 | 3 | 7 | 2 | 94 |
 
 ## Release assets
 
@@ -72,4 +72,4 @@ Install metadata for devzat lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260915.yml` · 2026-09-15T06:56:23Z._
+_Snapshot: `data/card/260916.yml` · 2026-09-16T06:52:07Z._
